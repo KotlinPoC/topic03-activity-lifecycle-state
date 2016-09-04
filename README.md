@@ -1,5 +1,5 @@
 # week03-activity-lifecycle-state
-# MyActivityLife
+# MyActivityLifecycle
 Sample code logging main activity lifecycle methods
 Main activity does not save state
 Secondary activity does save state
