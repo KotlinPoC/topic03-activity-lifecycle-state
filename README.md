@@ -1,4 +1,4 @@
-# week03-activity-lifecycle-state
+# 02-activity-lifecycle-state
 # MyActivityLifecycle
 Sample code logging main activity lifecycle methods
 Main activity does not save state
