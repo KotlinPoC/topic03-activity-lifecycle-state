@@ -43,6 +43,7 @@
 
     <EditText
         android:id="@+id/input"
+        style="@style/style1.pink.big"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="type anything here" />
