@@ -1,4 +1,4 @@
-# 02-activity-lifecycle-state
+# activity-lifecycle-state
 # MyActivityLifecycle
 Sample code logging main activity lifecycle methods
 Main activity does not save state
@@ -12,4 +12,3 @@ adb logcat -s LIFECYC2
 
 Take this code and modify it to have Activity2 launch Activity3
 experiment and see what happens
-
