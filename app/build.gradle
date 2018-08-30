@@ -2,12 +2,12 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion '24.0.3'
+    buildToolsVersion '28.0.2'
 
     defaultConfig {
         applicationId "cs518.sample.activityLifecycle"
         minSdkVersion 16
-        targetSdkVersion 16
+        targetSdkVersion 22
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_5
             targetCompatibility JavaVersion.VERSION_1_5
