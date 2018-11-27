@@ -1,4 +1,5 @@
 # activity-lifecycle-state
+
 # MyActivityLifecycle
 Sample code logging main activity lifecycle methods
 Main activity does not save state
